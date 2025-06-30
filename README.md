@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@raviprakash_789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raviprakash_789" height="30" width="40" /></a>
+<a href="https://twitter.com/raviprakash_789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raviprakash_789" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raviprakash surgali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviprakash surgali" height="30" width="40" /></a>
 <a href="https://kaggle.com/raviprakashsurgali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raviprakash surgali" height="30" width="40" /></a>
 <a href="https://instagram.com/ravi_surya777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi_surya777" height="30" width="40" /></a>
